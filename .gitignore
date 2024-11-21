@@ -380,7 +380,7 @@ out/extension.js.map
 *.exe
 
 # Répertoire Mac
-.DS_Store/
+*DS_Store/
 
 # Répertoires que je ne veux pas
 "Basic Code Games"/
