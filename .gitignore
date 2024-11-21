@@ -383,7 +383,7 @@ out/extension.js.map
 .DS_Store/
 
 # Répertoires que je ne veux pas
-"Basic Code Games/"
+"Basic Code Games"/
 
 # Fichiers de configuration VS Code
 .vscode/
